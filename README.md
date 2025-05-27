@@ -1,19 +1,21 @@
 ## 💫 About Me:
 ![FIKRIMAWARDI](img/BannerGithub.png)
-
-
+<br>
+---
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raulmnendez) 
 ###
 
 
-<br><br>
+<br>
 
+---
 ### 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) !![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 
 <img align="right" height="150" src="https://cdn.dribbble.com/userupload/26906814/file/original-ddc1de408d4289771f9be232567068de.gif"  />
+
 
 ###
 
@@ -34,6 +36,7 @@
 <br><br>
 
 
+---
 ###
 
 <br clear="both">
@@ -41,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/FIKRIMAWARDI/FIKRIMAWARDI/output/snake.svg" alt="Snake animation" />
 <br><br>
 
-<br><br>
+---
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FIKRIMAWARDI&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=FIKRIMAWARDI&theme=tokyonight&hide_border=false)<br/>
@@ -54,7 +57,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=FIKRIMAWARDI&icon=5&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Pikije) 
 
   
