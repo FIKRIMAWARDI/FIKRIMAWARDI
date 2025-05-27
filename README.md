@@ -4,10 +4,7 @@
 ---
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raulmnendez) 
-###
 
-
-<br>
 
 ---
 ### 💻 Tech Stack:
@@ -37,8 +34,8 @@
 
 
 ---
+
 ###
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIKRIMAWARDI/FIKRIMAWARDI/output/pacman-contribution-graph-dark.svg">
@@ -46,7 +43,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FIKRIMAWARDI/FIKRIMAWARDI/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
 ---
 ### 📊 GitHub Stats:
